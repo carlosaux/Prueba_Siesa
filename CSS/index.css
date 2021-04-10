@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.container{
+    text-align: center;
+}
+
+.container #text{
+    padding-top: 20%;
+}
+
+.btn-group .btn:hover{
+    background: #0a58ca;
+    color: white;
+}
