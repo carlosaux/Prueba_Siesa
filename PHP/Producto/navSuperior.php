@@ -1,7 +1,7 @@
 <nav class="nav navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
         <div id="logotipo">
-            <img src="../img/logo.jpg" alt="">
+            <img src="../../img/logo.jpg" alt="">
         </div>
         <h1>
             <a class="navbar-brand" href="#"><h1>Aguita</br>de coco</h1></a>

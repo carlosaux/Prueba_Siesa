@@ -10,7 +10,7 @@
 		
 		# m�todos abstractos para Gesti�n de clases que hereden
 		abstract protected function consultar();
-		abstract protected function borrar();
+		abstract protected function nuevo();
 		abstract protected function lista();
 		
 		

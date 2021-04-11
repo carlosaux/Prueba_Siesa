@@ -49,7 +49,7 @@
 		public function consultar($id_producto='') {
 			if($id_producto !=''):
 				$this->query = "
-				SELECT *
+				SELECT imagen, titulo, descripcion, precio, dto, fecha_ini, fecha_fin
 				FROM productos
 				WHERE id_producto = '$id_producto' order by id_producto
 				";
@@ -64,7 +64,7 @@
 		
 		public function lista() {
 			$this->query = "
-			SELECT * FROM productos
+			SELECT imagen, titulo, descripcion, precio, dto, fecha_ini, fecha_fin FROM productos
 			";
 			$this->obtener_resultados_query();
 			return $this->rows;
