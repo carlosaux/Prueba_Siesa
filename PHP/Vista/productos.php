@@ -6,8 +6,8 @@
     <div class="container-fluid justify-content-end"> 
                 
     <form id="Buscador" class="d-flex bd-highlight">
-    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-    <button class="btn btn-outline-success" type="submit">Search</button>
+    <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Buscar">
+    <button class="btn btn-outline-success" type="submit">Buscar</button>
     </form>              
     <a href="#" class="btn btn-primary">Subir producto</a>
 </div>

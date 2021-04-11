@@ -22,6 +22,28 @@
     font-family: iconos;
 }
 
+#bola{
+    position: absolute;
+    right: 5px;
+    top: 20px;
+    padding: 13px;
+    border-radius: 100px;
+    background-color: #669d42;
+    z-index: 0;
+}
+
+#contador{
+    position: absolute;
+    color: white;
+    right: 9px;
+    top: 20px;
+    z-index: 1;
+    letter-spacing: 6px;
+}
+
+
+
+
 #carrito a:hover{
     color: #517e33 !important;
 }
@@ -111,15 +133,23 @@
 .card a{
     float: right;
 }
+
 .btn{
     background-color: #669d42;    
     border: 1px solid #669d42;
     color: white;
 }
 
+.btn:visited{
+    background-color: #669d42;    
+    border: 1px solid #669d42;
+    color: white;
+    box-shadow: 5px 5px 5px #669d42 !important;
+}
+
 .btn:hover{
-    background-color: #517e33;    
-    border: 1px solid #517e33;
+    background-color: #517e33 !important;    
+    border: 1px solid #517e33 !important;
 }
 
 #Buscador{
