@@ -1,9 +1,31 @@
+@font-face{
+    font-family: "iconos";
+    src: url("fonts/websymbols-regular-webfont.svg#WebSymbolsRegular") format('svg'),
+        url("fonts/websymbols-regular-webfont.eot");
+    src: url("fonts/websymbols-regular-webfont.eot?#iefix") format("embedded-opentype"),
+         url("fonts/websymbols-regular-webfont.woff") format("woff"),
+         url("fonts/websymbols-regular-webfont.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
 *{
     padding: 0px;
     margin: 0px;
 }
 
 /*Cabecera*/
+
+#carrito a{
+    color: #669d42 !important;
+    font-size: 25px;
+    font-family: iconos;
+}
+
+#carrito a:hover{
+    color: #517e33 !important;
+}
+
 #header{
     margin-bottom: 2%;
     border-bottom: 5px solid #669d42;

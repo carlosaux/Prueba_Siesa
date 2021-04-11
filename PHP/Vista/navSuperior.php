@@ -19,6 +19,9 @@
                 <a class="nav-link active" aria-current="page" href="#productos">Productos</a>
                 </li>
             </ul>
+            <li>
+              <span id="carrito"><a href="">Z</a></span>
+            </li>
         </div>
     </div>
 </nav>
