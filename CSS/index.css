@@ -41,15 +41,15 @@
     letter-spacing: 6px;
 }
 
-
-
-
 #carrito a:hover{
     color: #517e33 !important;
 }
 
 #header{
-    margin-bottom: 2%;
+    border-bottom: 5px solid #669d42;
+}
+
+#promociones{
     border-bottom: 5px solid #669d42;
 }
 
@@ -108,10 +108,10 @@
     border-right: 1px solid #669d42;
 }
 
-
 #ul{
     margin-left: 35%;
 }
+
 /*Productos*/
 
 #productos{
@@ -137,6 +137,7 @@
 .btn{
     background-color: #669d42;    
     border: 1px solid #669d42;
+    margin: 1%;
     color: white;
 }
 
@@ -155,8 +156,6 @@
 #Buscador{
     margin: 1% !important;
 }
-
-
 
 /*Pie de pagina*/
 
