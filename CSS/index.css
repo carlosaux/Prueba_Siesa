@@ -43,7 +43,8 @@
 /*Barra de navegacion*/
 
 .nav-item{
-    line-height: 10px;
+    padding: 5%;
+    line-height: 1px;
     border-left: 1px solid #669d42;
     color: #669d42;
 }

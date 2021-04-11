@@ -18,6 +18,10 @@
     <div class="card-body">
     <h5 class="card-title">Nombre del producto</h5>
     <p class="card-text">Descripcion del producto, tiene que ser una descripcion breve</p>
+    <p class="card-text"><strong>Precio:</strong>$2000</p>
+    <p class="card-text"><strong>Dto:</strong>50%</p>
+    <p class="card-text"><strong>Primer dia del descuento:</strong><br/>Enero 01 del 2020</p>
+    <p class="card-text"><strong>Ultimo dia del descuento:</strong><br/>Enero 30 del 2020</p>
     <a href="#" class="btn btn-primary">Agregar al carrito</a>
     </div>
 </div>
@@ -26,6 +30,10 @@
     <div class="card-body">
     <h5 class="card-title">Nombre del producto</h5>
     <p class="card-text">Descripcion del producto, tiene que ser una descripcion breve</p>
+    <p class="card-text"><strong>Precio:</strong>$2000</p>
+    <p class="card-text"><strong>Dto:</strong>50%</p>
+    <p class="card-text"><strong>Primer dia del descuento:</strong><br/>Enero 01 del 2020</p>
+    <p class="card-text"><strong>Ultimo dia del descuento:</strong><br/>Enero 30 del 2020</p>
     <a href="#" class="btn btn-primary">Agregar al carrito</a>
     </div>
 </div>
@@ -34,6 +42,10 @@
     <div class="card-body">
     <h5 class="card-title">Nombre del producto</h5>
     <p class="card-text">Descripcion del producto, tiene que ser una descripcion breve</p>
+    <p class="card-text"><strong>Precio:</strong>$2000</p>
+    <p class="card-text"><strong>Dto:</strong>50%</p>
+    <p class="card-text"><strong>Primer dia del descuento:</strong><br/>Enero 01 del 2020</p>
+    <p class="card-text"><strong>Ultimo dia del descuento:</strong><br/>Enero 30 del 2020</p>
     <a href="#" class="btn btn-primary">Agregar al carrito</a>
     </div>
 </div>
@@ -42,6 +54,10 @@
     <div class="card-body">
     <h5 class="card-title">Nombre del producto</h5>
     <p class="card-text">Descripcion del producto, tiene que ser una descripcion breve</p>
+    <p class="card-text"><strong>Precio:</strong>$2000</p>
+    <p class="card-text"><strong>Dto:</strong>50%</p>
+    <p class="card-text"><strong>Primer dia del descuento:</strong><br/>Enero 01 del 2020</p>
+    <p class="card-text"><strong>Ultimo dia del descuento:</strong><br/>Enero 30 del 2020</p>
     <a href="#" class="btn btn-primary">Agregar al carrito</a>
     </div>
 </div>
@@ -50,6 +66,10 @@
     <div class="card-body">
     <h5 class="card-title">Nombre del producto</h5>
     <p class="card-text">Descripcion del producto, tiene que ser una descripcion breve</p>
+    <p class="card-text"><strong>Precio:</strong>$2000</p>
+    <p class="card-text"><strong>Dto:</strong>50%</p>
+    <p class="card-text"><strong>Primer dia del descuento:</strong><br/>Enero 01 del 2020</p>
+    <p class="card-text"><strong>Ultimo dia del descuento:</strong><br/>Enero 30 del 2020</p>
     <a href="#" class="btn btn-primary">Agregar al carrito</a>
     </div>
 </div>
